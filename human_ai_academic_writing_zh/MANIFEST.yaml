@@ -1,0 +1,62 @@
+name: human_ai_academic_writing_zh
+version: 1.0.0
+language: zh-CN-only
+scope: 实验型视觉营销与消费者行为论文的中文人机推演、写作与修订
+generated_at: '2026-08-22'
+load_policy:
+  new_session: FULL_LOAD
+  same_session: SESSION_VERIFIED
+  fail_state: SKILL_LOAD_INCOMPLETE
+core_modules:
+- core/M01_research_fact_freeze.md
+- core/M02_claim_authorization.md
+- core/M03_theory_qualification.md
+- core/M04_argument_architecture.md
+- core/M05_introduction.md
+- core/M06_theoretical_background.md
+- core/M07A_main_mediation.md
+- core/M07B_moderation_conditional_process.md
+- core/M08_hypothesis_formalization.md
+- core/M09_studies_results_discussion.md
+- core/M10A_theoretical_contribution.md
+- core/M10B_practical_limitations.md
+- core/M11_revision_control.md
+- core/M12_anti_ai_style.md
+protocols:
+- protocols/P01_freeze_thaw_versioning.md
+- protocols/P02_claim_evidence_ledger.md
+- protocols/P03_process_model_verification.md
+- protocols/P04_source_quality_retrieval.md
+- protocols/P05_apa7_claim_citation_binding.md
+- protocols/P06_trigger_router.md
+- protocols/P07_global_regression_audit.md
+- protocols/P08_skill_loading_validation.md
+templates:
+- templates/one_page_battleplan.md
+- templates/theory_role_card.md
+- templates/process_verification_card.md
+- templates/citation_evidence_matrix.md
+- templates/claim_limitation_map.md
+- templates/contribution_evidence_matrix.md
+- templates/deep_argument_audit.md
+- templates/skill_load_report.md
+corpus_required:
+- corpus/emoji_dialogue_optimized.md
+- corpus/emoji_gold_manuscript.md
+- corpus/emoji_error_corpus.md
+- corpus/emoji_decision_log.md
+- corpus/skill_development_decisions.md
+corpus_full_source: corpus/emoji_dialogue_full_source.md
+canonical_regression_cases:
+- ERR-IIT-001
+- ERR-ENTRY-001
+- ERR-MATCH-001
+- ERR-SYMMETRY-001
+- ERR-LEVEL-001
+dynamic_standards:
+  PROCESS: verify at use time from Andrew F. Hayes official site/documentation
+  UTD24: verify from UT Dallas official journal list
+  FT50: verify current Financial Times research journal list
+  AJG: verify current Chartered ABS Academic Journal Guide
+  JCR: verify current Clarivate Journal Citation Reports
+  APA7: verify from APA Style official guidance when ambiguity exists
