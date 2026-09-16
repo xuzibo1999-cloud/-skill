@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human–AI 中文学术写作"
+  short_description: "证据约束的中文消费者研究写作与修订"
+  default_prompt: "使用 $human-ai-academic-writing-zh 完成当前论文工作流，并在本次对话中持续保持项目状态和当前 Gate，直到我明确要求变更、暂停或结束。"

@@ -1,0 +1,125 @@
+# Build Validation Report
+
+Version: 1.0.0  
+Generated: 2026-08-22
+
+## Summary
+- Checks: 114
+- Passed: 114
+- Failed: 0
+
+## Details
+- PASS — core_modules count — 14
+- PASS — exists core/M01_research_fact_freeze.md
+- PASS — exists core/M02_claim_authorization.md
+- PASS — exists core/M03_theory_qualification.md
+- PASS — exists core/M04_argument_architecture.md
+- PASS — exists core/M05_introduction.md
+- PASS — exists core/M06_theoretical_background.md
+- PASS — exists core/M07A_main_mediation.md
+- PASS — exists core/M07B_moderation_conditional_process.md
+- PASS — exists core/M08_hypothesis_formalization.md
+- PASS — exists core/M09_studies_results_discussion.md
+- PASS — exists core/M10A_theoretical_contribution.md
+- PASS — exists core/M10B_practical_limitations.md
+- PASS — exists core/M11_revision_control.md
+- PASS — exists core/M12_anti_ai_style.md
+- PASS — protocols count — 8
+- PASS — exists protocols/P01_freeze_thaw_versioning.md
+- PASS — exists protocols/P02_claim_evidence_ledger.md
+- PASS — exists protocols/P03_process_model_verification.md
+- PASS — exists protocols/P04_source_quality_retrieval.md
+- PASS — exists protocols/P05_apa7_claim_citation_binding.md
+- PASS — exists protocols/P06_trigger_router.md
+- PASS — exists protocols/P07_global_regression_audit.md
+- PASS — exists protocols/P08_skill_loading_validation.md
+- PASS — templates count — 8
+- PASS — exists templates/one_page_battleplan.md
+- PASS — exists templates/theory_role_card.md
+- PASS — exists templates/process_verification_card.md
+- PASS — exists templates/citation_evidence_matrix.md
+- PASS — exists templates/claim_limitation_map.md
+- PASS — exists templates/contribution_evidence_matrix.md
+- PASS — exists templates/deep_argument_audit.md
+- PASS — exists templates/skill_load_report.md
+- PASS — corpus_required count — 5
+- PASS — exists corpus/emoji_dialogue_optimized.md
+- PASS — exists corpus/emoji_gold_manuscript.md
+- PASS — exists corpus/emoji_error_corpus.md
+- PASS — exists corpus/emoji_decision_log.md
+- PASS — exists corpus/skill_development_decisions.md
+- PASS — version — 1.0.0
+- PASS — full source paragraphs — 2119
+- PASS — gold 外卖小票中的食品相关表情符号与回购意愿
+- PASS — gold 断言式文字下两类表情符号无显著差异
+- PASS — gold 未直接测量信息评价与整合过程
+- PASS — gold Gold 不等于
+- PASS — gold no diff markers
+- PASS — protocols/P03_process_model_verification.md: 不凭 GPT 记忆
+- PASS — protocols/P03_process_model_verification.md: Appendix A
+- PASS — protocols/P03_process_model_verification.md: 使用时必须重新核验当前版本
+- PASS — protocols/P04_source_quality_retrieval.md: MDPI
+- PASS — protocols/P04_source_quality_retrieval.md: JCR Q3/Q4
+- PASS — protocols/P04_source_quality_retrieval.md: SOURCE_EXCEPTION
+- PASS — protocols/P04_source_quality_retrieval.md: Recent Lane
+- PASS — protocols/P04_source_quality_retrieval.md: Canonical Lane
+- PASS — protocols/P04_source_quality_retrieval.md: UTD24
+- PASS — protocols/P04_source_quality_retrieval.md: FT50
+- PASS — protocols/P05_apa7_claim_citation_binding.md: 最小命题簇
+- PASS — protocols/P05_apa7_claim_citation_binding.md: 概念变化
+- PASS — protocols/P05_apa7_claim_citation_binding.md: 关系变化
+- PASS — protocols/P05_apa7_claim_citation_binding.md: ≥3 authors
+- PASS — protocols/P05_apa7_claim_citation_binding.md: et al.
+- PASS — protocols/P05_apa7_claim_citation_binding.md: 字母顺序
+- PASS — protocols/P05_apa7_claim_citation_binding.md: https://doi.org/
+- PASS — protocols/P08_skill_loading_validation.md: SKILL_LOAD_INCOMPLETE
+- PASS — protocols/P08_skill_loading_validation.md: FULL 防伪条件
+- PASS — core/M11_revision_control.md: KEEP / MICRO-EDIT / REWRITE / MOVE / DELETE
+- PASS — core/M11_revision_control.md: 先有论证链，后有句子
+- PASS — core/M12_anti_ai_style.md: 符号泄漏
+- PASS — core/M12_anti_ai_style.md: 漂亮对称
+- PASS — core/M12_anti_ai_style.md: 默认删除
+- PASS — no tool token README.md
+- PASS — no tool token SKILL.md
+- PASS — no tool token templates/deep_argument_audit.md
+- PASS — no tool token templates/process_verification_card.md
+- PASS — no tool token templates/claim_limitation_map.md
+- PASS — no tool token templates/theory_role_card.md
+- PASS — no tool token templates/skill_load_report.md
+- PASS — no tool token templates/contribution_evidence_matrix.md
+- PASS — no tool token templates/one_page_battleplan.md
+- PASS — no tool token templates/citation_evidence_matrix.md
+- PASS — no tool token checks/VALIDATION_REPORT.md
+- PASS — no tool token checks/CONFLICT_AUDIT.md
+- PASS — no tool token checks/REGRESSION_TESTS.md
+- PASS — no tool token checks/SOURCE_MAP.md
+- PASS — no tool token checks/SELF_TEST_SKILL_LOAD_REPORT.md
+- PASS — no tool token corpus/emoji_dialogue_full_source.md
+- PASS — no tool token corpus/emoji_gold_manuscript.md
+- PASS — no tool token corpus/skill_development_decisions.md
+- PASS — no tool token corpus/emoji_error_corpus.md
+- PASS — no tool token corpus/emoji_decision_log.md
+- PASS — no tool token corpus/emoji_dialogue_optimized.md
+- PASS — no tool token standards/external_standards_snapshot.md
+- PASS — no tool token core/M01_research_fact_freeze.md
+- PASS — no tool token core/M08_hypothesis_formalization.md
+- PASS — no tool token core/M03_theory_qualification.md
+- PASS — no tool token core/M04_argument_architecture.md
+- PASS — no tool token core/M06_theoretical_background.md
+- PASS — no tool token core/M05_introduction.md
+- PASS — no tool token core/M10B_practical_limitations.md
+- PASS — no tool token core/M07A_main_mediation.md
+- PASS — no tool token core/M10A_theoretical_contribution.md
+- PASS — no tool token core/M02_claim_authorization.md
+- PASS — no tool token core/M07B_moderation_conditional_process.md
+- PASS — no tool token core/M09_studies_results_discussion.md
+- PASS — no tool token core/M11_revision_control.md
+- PASS — no tool token core/M12_anti_ai_style.md
+- PASS — no tool token protocols/P02_claim_evidence_ledger.md
+- PASS — no tool token protocols/P01_freeze_thaw_versioning.md
+- PASS — no tool token protocols/P08_skill_loading_validation.md
+- PASS — no tool token protocols/P07_global_regression_audit.md
+- PASS — no tool token protocols/P06_trigger_router.md
+- PASS — no tool token protocols/P03_process_model_verification.md
+- PASS — no tool token protocols/P04_source_quality_retrieval.md
+- PASS — no tool token protocols/P05_apa7_claim_citation_binding.md
